@@ -1,5 +1,5 @@
-# Meu-primeiro-portfolio-teste
-Portfólio estático que eu aprendi a fazer na DNC, hoje eu utilizo o React para fazer os meus projetos.
+# Meu Primeiro Site
+Esse é o Portfólio estático que eu aprendi a fazer na DNC, hoje eu utilizo o React para fazer os meus projetos.
 
 Esse foi o meu primeiro projeto em programação, mas publiquei pois gostaria que as pessoas visualizassem a minha evolução.
 
